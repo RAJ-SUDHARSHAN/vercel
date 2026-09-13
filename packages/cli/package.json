@@ -193,7 +193,7 @@
     "is-port-reachable": "3.1.0",
     "is-url": "1.2.2",
     "jaro-winkler": "0.2.8",
-    "js-yaml": "4.1.0",
+    "js-yaml": "4.3.2",
     "json-parse-better-errors": "1.0.2",
     "jsonlines": "0.1.1",
     "line-async-iterator": "3.0.0",
